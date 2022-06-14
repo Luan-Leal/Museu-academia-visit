@@ -1,0 +1,10 @@
+.header-img {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;    
+}
+
+.fachada {
+    width: 100%;
+}
